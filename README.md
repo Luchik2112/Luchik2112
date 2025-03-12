@@ -121,12 +121,8 @@ print("git checkout <tag_name>"")
 
 [GitHub Guides](https://docs.github.com/ru)
 
-Проверка обновления коммита
-## ПОВТОР Полезные ссылки
-[Официальная документация Git](https://git-scm.com/doc)
 
-[GitHub Guides](https://docs.github.com/ru)
-
+***КОНЕЦ*** 
 
 
 
